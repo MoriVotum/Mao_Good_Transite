@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>225620ad7cb88a2896c1e767bf89bd9a5c02f031</guid>
+	<type>component</type>
+	<hash>0482a6b2</hash>
+	<runtimes>
+		<runtime id="225620ad7cb88a2896c1e767bf89bd9a5c02f031" name="Observer.cs" link="0"/>
+		<runtime id="d93e167b338e199ef94934652de3da80b0900bdf" name="Observer.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

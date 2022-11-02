@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.15.1.0">
+	<node type="ObjectDummy" id="1040002401" trigger_interaction_enabled="1" name="first_person_controller">
+		<body type="BodyDummy" id="393949060" frozen="0">
+			<shape type="ShapeCapsule" id="779854628" transform="0.999999881 0 0 0 0 0.999999881 0 0 0 0 0.999999642 0 9.53674316e-07 9.53674316e-07 -1.32500052 1">
+				<radius>0.300000012</radius>
+				<height>1.14999998</height>
+			</shape>
+		</body>
+		<properties>
+			<property parent="7abd3d1dd6399bd8498bed57e699aacada031ba1" guid="f37457607c87a33f8b8457929a4d91c937167094">
+				<parameter name="useObjectBody">0</parameter>
+				<parameter name="cameraMode">2</parameter>
+				<parameter name="camera">1115336465</parameter>
+				<parameter name="minVerticalAngle">-89.9000015</parameter>
+			</property>
+			<property parent="941b8f43ba74ebc650a5d06dc08af6e87e85ed27" guid="82b3147439013543d04259c603e8666d08b094e8">
+				<parameter name="player">1040002401</parameter>
+			</property>
+		</properties>
+		<transform>0.99999988 0 0 0.0 0 0.99999988 0 0.0 0 0 0.99999994 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

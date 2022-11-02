@@ -43,9 +43,6 @@ public class Shoot : Component
 		if (Object.RootNode.Name == "dynamic_content")
 		{
 
-			// if (Object.Name == "material_ball")
-			// 	CreateNewWorld();
-
 			WorldIntersectionNormal hitInfo = new WorldIntersectionNormal();
 			Unigine.Object hitObject = World.GetIntersection(p0, p1, mask, hitInfo);
 

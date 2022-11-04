@@ -48,6 +48,9 @@ public class Shoot : Component
 
 			Object.WorldPosition = p0 - deltaObject + ((p1 - p0).Normalized * lastVector);
 
+			// Direction ojbject to the hit point
+			// Object.WorldDirection = (hitInfo.GetPosition() - Object.WorldPosition).Normalized;
+
 			Visualizer.RenderMessage3D(Object.WorldPosition, 0, Object.Name, vec4.GREEN, 0, 25);
 		}
 	}

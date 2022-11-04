@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <settings>
 	<launch>
-		<video_api>0</video_api>
+		<video_api>1</video_api>
 		<resolution>1280 720</resolution>
 		<fullscreen>0</fullscreen>
 		<vr_mode>0</vr_mode>
@@ -9,6 +9,6 @@
 		<run_world>1</run_world>
 		<config>Debug</config>
 		<args/>
-		<mat_mode>2</mat_mode>
+		<mat_mode>0</mat_mode>
 	</launch>
 </settings>

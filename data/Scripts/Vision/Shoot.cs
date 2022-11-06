@@ -21,8 +21,6 @@ public class Shoot : Component
 
 	vec3 setDirection;
 
-	// define world intersection instance
-
 	// create a counter to show the message once
 
 	private void Init()

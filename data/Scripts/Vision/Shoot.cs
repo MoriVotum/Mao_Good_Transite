@@ -63,9 +63,6 @@ public class Shoot : Component
 			Visualizer.RenderObjectSurfaceBoundBox(Object, 0, vec4.BLUE, 0.05f);
 
 			Visualizer.RenderMessage3D(Object.WorldPosition, new vec3 (0.0f, 0.0f, 1.0f), Object.Name, vec4.GREEN, 0, 25);
-
-			// Render Message upper object
-			// Visualizer.RenderMessage2D(Object.WorldPosition, new vec3 (0, 0, 1), Object.Name, vec4.GREEN, 0, 25);
 		}
 	} 
 

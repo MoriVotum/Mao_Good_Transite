@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.15.1.0" name="Trigger" guid="c2f1131b0decadbe363b7a059a8f23a09885827f" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="shoot" type="property" filter="02f4d20b71a0ffee25d2c67584a2a550eb5f386f" flags="internal"/>
+</property>

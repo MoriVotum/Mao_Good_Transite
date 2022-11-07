@@ -49,7 +49,9 @@ public class Shoot : Component
 			// Direction ojbject to the hit point
 			// Object.WorldDirection = (hitInfo.GetPosition() - Object.WorldPosition).Normalized;
 
-			Visualizer.RenderMessage3D(Object.WorldPosition, 0, Object.Name, vec4.GREEN, 0, 25);
+			Visualizer.RenderMessage3D(Object.WorldPosition, new vec3 (0.0f, 0.0f, 1.0f), Object.Name, vec4.GREEN, 0, 25);
+
+			// Visualizer.RenderMessage2D(Object.WorldPosition, new vec3 (0, 0, 1), Object.Name, vec4.GREEN, 0, 25);
 		}
 	}
 
@@ -60,7 +62,7 @@ public class Shoot : Component
 		{
 			Visualizer.RenderObjectSurfaceBoundBox(Object, 0, vec4.BLUE, 0.05f);
 
-			Visualizer.RenderMessage3D(Object.WorldPosition, 0, Object.Name, vec4.GREEN, 0, 25);
+			Visualizer.RenderMessage3D(Object.WorldPosition, new vec3 (0.0f, 0.0f, 1.0f), Object.Name, vec4.GREEN, 0, 25);
 		}
 	} 
 

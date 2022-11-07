@@ -26,7 +26,7 @@ public class Shoot : Component
 	private void Init()
 	{
 		// write here code to be called on component initialization
-		
+		Visualizer.Enabled = true;
 	}
 
 
@@ -126,9 +126,6 @@ public class Shoot : Component
 
 	private void Update()
 	{
-		Visualizer.Enabled = true;
-
-
 		if (Input.IsMouseButtonDown(Input.MOUSE_BUTTON.LEFT))
 			trackingObject(true);
 

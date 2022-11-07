@@ -2,12 +2,12 @@
 <asset version="2.15.1.0">
 	<guid>60586bbbe11bedde064e7ba5e6cbf8c084a7151f</guid>
 	<type>world</type>
-	<hash>7b8fbf81</hash>
+	<hash>b7f6b955</hash>
 	<runtimes>
 		<runtime id="60586bbbe11bedde064e7ba5e6cbf8c084a7151f" name="Mao_Good_Transite.world" link="0"/>
 	</runtimes>
 	<parameters>
-		<parameter type="string" name="render_settings_path">guid://3eaf348f5c3c98a2f8253f99e39b2424233a2133</parameter>
+		<parameter type="string" name="render_settings_path"/>
 		<parameter type="string" name="sound_settings_path"/>
 		<parameter type="string" name="physics_settings_path"/>
 		<parameter type="string" name="script_name"/>
@@ -22,13 +22,13 @@
 			<fov>160</fov>
 		</flashlight>
 		<speed_presets>
-			<speed_0>5</speed_0>
-			<speed_1>10</speed_1>
+			<speed_0>3</speed_0>
+			<speed_1>50</speed_1>
 			<speed_2>500</speed_2>
-			<current_preset>1</current_preset>
+			<current_preset>0</current_preset>
 		</speed_presets>
 		<scene_camera>
-			<transform>-0.95602035522460938 0.29329884052276611 -4.3796335376100615e-05 0 0.031688220798969269 0.10343789309263229 0.99413079023361206 0 0.29158201813697815 0.95040827989578247 -0.10818242281675339 0 6.4460625648498535 13.996625900268555 4.1196188926696777 1</transform>
+			<transform>-0.4694821834564209 -0.88294196128845215 9.2685222625732422e-06 0 0.61999368667602539 -0.32965856790542603 0.71199226379394531 0 -0.62864488363265991 0.33427345752716064 0.70218729972839355 0 3.5460047721862793 13.190258979797363 4.7466411590576172 1</transform>
 			<fov_mode>0</fov_mode>
 			<fov>60</fov>
 			<focal_length>30</focal_length>

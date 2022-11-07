@@ -2,7 +2,7 @@
 <asset version="2.15.1.0">
 	<guid>043ffa866896102deae4b3a8d50902e7ed9b231a</guid>
 	<type>material_graph</type>
-	<hash>d4e9a38</hash>
+	<hash>64d3a7f2</hash>
 	<runtimes>
 		<runtime id="043ffa866896102deae4b3a8d50902e7ed9b231a" name="255246103.mgraph" link="0"/>
 		<runtime id="444665bbafcd9fdeb44085a526127ac08507af1f" name="255246103" link="1" type="5"/>

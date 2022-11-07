@@ -3856,7 +3856,7 @@
 					<parameter name="shootInput">99e548b681d2289d879e91587efd64d77e79bc4a</parameter>
 				</property>
 			</properties>
-			<transform>-0.70710665 0.70710671 0 0.0 -0.70710671 -0.70710665 0 0.0 0 0 0.99999988 0.0 6.0999994 11.5 3.5999997 1.0</transform>
+			<transform>-0.70710653 0.70710677 0 0.0 -0.70710689 -0.70710665 0 0.0 0 0 0.99999988 0.0 5.0157371 11.5 3.5999997 1.0</transform>
 			<node type="PlayerDummy" id="1115336465" name="PlayerDummy">
 				<znear>0.300000012</znear>
 				<zfar>100000</zfar>
@@ -3879,6 +3879,15 @@
 				</property>
 			</properties>
 			<transform>0.99999994 0 0 0.0 0 0.99999994 0 0.0 0 0 0.99999994 0.0 5.8000002 8.500001 1.2 1.0</transform>
+		</node>
+		<node type="PhysicalTrigger" id="1571146732" name="PhysicalTrigger">
+			<type>0</type>
+			<size>2.33385086 1 1</size>
+			<exclusion_mask>0x0</exclusion_mask>
+			<properties>
+				<property parent="c2f1131b0decadbe363b7a059a8f23a09885827f" guid="b34b4ae3a74332e679962d0da5476b08897c92c7"/>
+			</properties>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 8.2440872 11.838703 1.1604524 1.0</transform>
 		</node>
 	</editor>
 	<console>

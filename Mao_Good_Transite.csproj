@@ -50,6 +50,7 @@
 		<Compile Include="data/Scripts/Vision/Observer.cs"/>
 		<Compile Include="data/Scripts/Vision/Enter.cs"/>
 		<Compile Include="data/Scripts/Papka/Trigger.cs"/>
+		<Compile Include="data/Scripts/Papka/Trigger.cs"/>
 	</ItemGroup>
 	<ItemGroup>
 		<Compile Include="data\csharp_template\first_person_controller\components\FirstPersonController.cs"/>

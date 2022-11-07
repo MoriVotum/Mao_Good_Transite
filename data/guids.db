@@ -174,7 +174,7 @@
 	"d5dffd261061f24dc177ef4836e4ca07e93affba": "csharp_template/template_render_settings/template_virtual_reality.render.meta",
 	"725f9a2b30e9e98eba3c63957aba5ff0188f728f": "configs/default.user.meta",
 	"da6d6e9cbb4bb94b036e3e2e684c6fb5e57fbd90": "Scripts/Vision/HUD.cs.meta",
-	"2964d28f12699ea2bed28d99a57c1a24a3aa9f33": "Scripts/Papka/Trigger.cs.meta",
+	"ff957d67060c5b9a6998f6319613f9dc377c4b8b": "Scripts/Papka/Trigger.cs.meta",
 	"8e1550c2d4a35939d4d83144feae8bd35e9d1f16": "csharp_template/first_person_controller/components/FirstPersonController.cs.meta",
 	"d2fa8737f966bb2a1c5330818e94cfec12e18a5b": "Scripts/Vision/Enter.cs.meta",
 	"0ef733ef9004d082d47355f95fdc870427d16693": "Scripts/Vision/Observer.cs.meta",

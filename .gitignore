@@ -11,25 +11,27 @@ unigine_editor.cfg
 *.modified
 *.tlog
 
-# from Unigine doc 
-/.thumbnails
-/bin
-/launch_debug.bat
-/launch_editor.bat
-/launch_release.bat
+Mao_Good_Transite.project
 
-# from Unigine forum
-/source/*.vcxproj.user
-/source/*.VC.db
-/source/*.opendb
+# # from Unigine doc 
+# /.thumbnails
+# /bin
+# /launch_debug.bat
+# /launch_editor.bat
+# /launch_release.bat
 
-# additional 
-/data/.thumbnails
-/data/.runtimes
-/data/ComponentSystem -> we put under versioning only custom .prop not all automatically generated..
-/data/guids.db -> should it be under versioning?
-/data/*.cache
-/data/entities/*.umount -> we ignore these mount points.. explanation in another post
-/data/landscape/*.umount-> we ignore these mount points.. explanation in another post
-/source/.vs/
-/source/x64
+# # from Unigine forum
+# /source/*.vcxproj.user
+# /source/*.VC.db
+# /source/*.opendb
+
+# # additional 
+# /data/.thumbnails
+# /data/.runtimes
+# /data/ComponentSystem -> we put under versioning only custom .prop not all automatically generated..
+# /data/guids.db -> should it be under versioning?
+# /data/*.cache
+# /data/entities/*.umount -> we ignore these mount points.. explanation in another post
+# /data/landscape/*.umount-> we ignore these mount points.. explanation in another post
+# /source/.vs/
+# /source/x64

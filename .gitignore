@@ -13,7 +13,7 @@ unigine_editor.cfg
 
 # from Unigine doc 
 /.thumbnails
-/bin -> be careful, on rely on SDK browser configure project to restore all required .dll, but some are currently forgotten.. e.g. CIGIConnector_double_x64, HLAConnector_double_x64, IG_double_x64
+/bin
 /launch_debug.bat
 /launch_editor.bat
 /launch_release.bat
